@@ -13,7 +13,7 @@ In the second unit of the tutorial, we will focus on cancer genomic workflows in
 Objectives of the tutorial: We aim to give participants a hands-on experience using the Bwb for genomic analyses on the cloud.   We will provide additional resources at the end of the tutorial, so that participants can continue to explore these topics.
 
 Upon successful completion of this tutorial, the participants will be able to:
-Discuss the applications and challenges of analyzing cancer genomic data.
-Acquire hands-on experience using the Bwb to deploy genomic workflows on the cloud.
-Understand the applications of cloud computing for the analyses of genomic data.
-Gain hands-on experience deploying genomic workflows on AWS using the Bwb’s graphical user interface.
+* Discuss the applications and challenges of analyzing cancer genomic data.
+* Acquire hands-on experience using the Bwb to deploy genomic workflows on the cloud.
+* Understand the applications of cloud computing for the analyses of genomic data.
+* Gain hands-on experience deploying genomic workflows on AWS using the Bwb’s graphical user interface.
