@@ -21,13 +21,13 @@ Upon successful completion of this tutorial, the participants will be able to:
 * Gain hands-on experience deploying genomic workflows on AWS using the Bwb’s graphical user interface.
 
 ## Resources
-[GDC DNA sequencing workflow] (https://docs.gdc.cancer.gov/Data/Bioinformatics_Pipelines/DNA_Seq_Variant_Calling_Pipeline/)
+GDC DNA sequencing workflow (https://docs.gdc.cancer.gov/Data/Bioinformatics_Pipelines/DNA_Seq_Variant_Calling_Pipeline/)
 
-[GDC mRNA sequencing workflow] (https://docs.gdc.cancer.gov/Data/Bioinformatics_Pipelines/Expression_mRNA_Pipeline/)
+GDC mRNA sequencing workflow (https://docs.gdc.cancer.gov/Data/Bioinformatics_Pipelines/Expression_mRNA_Pipeline/)
 
-[Bwb Github] (https://github.com/BioDepot/BioDepot-workflow-builder)
+Bwb Github (https://github.com/BioDepot/BioDepot-workflow-builder)
 
 ## References
-Building containerized workflows using the BioDepot-workflow-Builder (BwB). Ling-Hong Hung, Jiaming Hu, Trevor Meiss, Alyssa Ingersoll, Wes Lloyd, Daniel Kristiyanto, Yuguang Xiong, Eric Sobie, Ka Yee Yeung. [Cell Systems 2019, v9, issue 5, pages 508-514.E3] (https://doi.org/10.1016/j.cels.2019.08.007)
+Building containerized workflows using the BioDepot-workflow-Builder (BwB). Ling-Hong Hung, Jiaming Hu, Trevor Meiss, Alyssa Ingersoll, Wes Lloyd, Daniel Kristiyanto, Yuguang Xiong, Eric Sobie, Ka Yee Yeung. Cell Systems 2019, v9, issue 5, pages 508-514.E3 (https://doi.org/10.1016/j.cels.2019.08.007)
 
-Accessible and interactive RNA sequencing analysis using serverless computing. Ling-Hong Hung, Xingzhi Niu, Wes Lloyd, Ka Yee Yeung. [bioRxiv 576199v2 2020] (https://www.biorxiv.org/content/10.1101/576199v2)
+Accessible and interactive RNA sequencing analysis using serverless computing. Ling-Hong Hung, Xingzhi Niu, Wes Lloyd, Ka Yee Yeung. bioRxiv 576199v2 2020. (https://www.biorxiv.org/content/10.1101/576199v2)
