@@ -4,7 +4,7 @@
 
 Presenters: Ling-Hong Hung, Varik Hoang, Wes Lloyd, Ka Yee Yeung.
 
-August 1, 2021 at the [12th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB)] (https://acm-bcb.org/)
+August 1, 2021 at the 12th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB) (https://acm-bcb.org/)
 
 ## Abstract 
 We present a hands-on tutorial of the BioDepot-workflow-builder (Bwb), a drag and drop graphical user interface that allows users to assemble, modify and execute Docker workflows. Bwb represents individual software modules as widgets that can be assembled into interactive workflows.  In the first unit of the tutorial, we will present an optimized method that yields a 1100-fold computational speedup. Specifically, the alignment time for a 640 million read human RNA-sequencing dataset is reduced from ~20 hours to ~1 minute using serverless cloud computing. This makes it possible to adjust alignment parameters in real-time and to iteratively improve the final lists of differentially expressed genes. Participants will acquire hands-on experience deploying this accelerated workflow on Amazon Web Services (AWS) using the Bwb graphical interface. 
