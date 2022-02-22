@@ -71,4 +71,4 @@ Note: make sure that we already had the client app authorized by GCP before this
 
 ### Tutorial Video:
 
-<a href="https://www.youtube.com/watch?v=KNEh_kGAl44&ab_channel=VarikHoang"><img src="./dicom_deidentification/biodepot_gh_api.bmp" width="50%" height="50%"></a>
+<a href="https://youtu.be/7rnCaAxyq0k"><img src="./dicom_deidentification/biodepot_gh_api.bmp" width="50%" height="50%"></a>
